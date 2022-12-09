@@ -1,0 +1,55 @@
+body{
+
+    background-color:rgba(27, 27, 50, 0.8);
+  
+    font-family: 'Poppins', sans-serif;
+  
+     font-size: 1rem;
+  
+  }
+  
+  #title{
+  
+    text-align: center;
+  
+    color: white;
+  
+    text-transform: upper;
+  
+  }
+  
+  #description{
+  
+    font-style: italic;
+  
+    font-weight: 200;
+  
+    text-shadow: 1px  rgba(0, 0, 0, 0.4);
+  
+     line-height: 0;
+  
+     padding-top:-20%;
+  
+     text-align:center;
+  
+   
+  
+  }
+  
+  #survey-form{
+  
+    background: #fff;
+  
+    border-radius: 5px;
+  
+    height: 100vh
+  
+  }
+  
+  #name-label{
+  
+    text-align:center;
+  
+    padding-top: 20px;
+  
+  }
